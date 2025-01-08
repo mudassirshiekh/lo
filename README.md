@@ -29,6 +29,7 @@ I wanted a **short name**, similar to "Lodash" and no Go package uses this name.
 ![lo](img/logo-full.png)
 
 ## 🚀 Install
+## By Mudassir Alam
 
 ```sh
 go get github.com/samber/lo@v1
